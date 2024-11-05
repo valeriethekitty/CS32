@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CS32 Project 1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  City.cpp
+  Game.cpp
+  History.cpp
+  main.cpp
+  Player.cpp
+  Tooter.cpp
+  utilities.cpp
+  Generating Code...
+  CS32 Project 1.vcxproj -> C:\Users\valer\OneDrive\Desktop\Cpp\cs32\CS32Project1\x64\Debug\CS32Project1.exe

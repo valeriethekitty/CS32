@@ -1,0 +1,10 @@
+﻿  geodb.cpp
+C:\Users\valer\OneDrive\Desktop\Cpp\cs32\CS32Project4\t\stops.h(32,45): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\valer\OneDrive\Desktop\Cpp\cs32\CS32Project4\t\stops.h(32,45): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  router.cpp
+C:\Users\valer\OneDrive\Desktop\Cpp\cs32\CS32Project4\t\stops.h(32,45): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  tour_generator.cpp
+C:\Users\valer\OneDrive\Desktop\Cpp\cs32\CS32Project4\t\stops.h(32,45): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  cs32 project 4.vcxproj -> C:\Users\valer\OneDrive\Desktop\Cpp\cs32\CS32Project4\x64\Debug\cs32 project 4.exe

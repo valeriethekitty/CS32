@@ -1,0 +1,45 @@
+﻿  Actor.cpp
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(41,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(41,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(46,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(46,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(82,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(82,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(231,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(231,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(237,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(237,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(243,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(243,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(249,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(249,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(296,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(296,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(299,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(299,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(302,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(302,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(305,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(305,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(345,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(346,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(348,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(348,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(396,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(397,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(445,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\Actor.cpp(445,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GameController.cpp
+  GameWorld.cpp
+  main.cpp
+  StudentWorld.cpp
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\StudentWorld.cpp(65,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\StudentWorld.cpp(248,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\StudentWorld.cpp(258,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\StudentWorld.cpp(268,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\StudentWorld.cpp(295,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\StudentWorld.cpp(305,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\StudentWorld.cpp(346,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\MarbleMadness\StudentWorld.cpp(356,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  MarbleMadness.vcxproj -> C:\Users\valer\OneDrive\Desktop\Cpp\MarbleMadness bruh\Debug\MarbleMadness.exe
